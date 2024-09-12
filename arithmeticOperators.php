@@ -1,5 +1,5 @@
 <?php
-
+    //Showing the functioning of arithmetic operator
     $a=10;
     $b=20;
 

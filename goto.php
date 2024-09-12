@@ -3,7 +3,7 @@
 $x=10;
 
 if($x+2==12){
-    goto abc;
+    goto abc; //it will go to abc part and execute it
 }
 
 echo "hello world";

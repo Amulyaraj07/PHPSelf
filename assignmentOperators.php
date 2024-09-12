@@ -6,8 +6,8 @@
     echo $z;
 
     echo $a+=$b; //add the value and assign back the final value to a
-    echo $a-=$b;//subtracts the value and assign back the final value to a
-    echo $a*=$b;
+    echo $a-=$b;//subtracts the value and assign back the final value to a 
+    echo $a*=$b;//multiplies the value and assign back the final value to a 
     echo $a/=$b;
     echo $a%=$b;
     echo $a**=$b;

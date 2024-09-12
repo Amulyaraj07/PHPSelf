@@ -1,5 +1,5 @@
 <?php
-//for loop
+//for loop (initialisation ; condition; increment/decrement)
 for($start=0;$start<=10;$start++){
     echo "$start";
     echo "</br>";
